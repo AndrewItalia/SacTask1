@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\RealSacTask1\RealSacTask1\bin\Debug\RealSacTask1.exe.config
+C:\Users\andre\source\repos\RealSacTask1\RealSacTask1\bin\Debug\RealSacTask1.exe
+C:\Users\andre\source\repos\RealSacTask1\RealSacTask1\bin\Debug\RealSacTask1.pdb
+C:\Users\andre\source\repos\RealSacTask1\RealSacTask1\obj\Debug\RealSacTask1.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\RealSacTask1\RealSacTask1\obj\Debug\RealSacTask1.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\RealSacTask1\RealSacTask1\obj\Debug\RealSacTask1.Form1.resources
+C:\Users\andre\source\repos\RealSacTask1\RealSacTask1\obj\Debug\RealSacTask1.Properties.Resources.resources
+C:\Users\andre\source\repos\RealSacTask1\RealSacTask1\obj\Debug\RealSacTask1.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\RealSacTask1\RealSacTask1\obj\Debug\RealSacTask1.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\RealSacTask1\RealSacTask1\obj\Debug\RealSacTask1.exe
+C:\Users\andre\source\repos\RealSacTask1\RealSacTask1\obj\Debug\RealSacTask1.pdb
